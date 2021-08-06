@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/StarWarsAPI/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/StarWarsAPI/static/js/main.8ce5b21f.chunk.js",
+    "main.js.map": "/StarWarsAPI/static/js/main.8ce5b21f.chunk.js.map",
+    "runtime-main.js": "/StarWarsAPI/static/js/runtime-main.0c96567d.js",
+    "runtime-main.js.map": "/StarWarsAPI/static/js/runtime-main.0c96567d.js.map",
+    "static/css/2.bad60735.chunk.css": "/StarWarsAPI/static/css/2.bad60735.chunk.css",
+    "static/js/2.fe837efd.chunk.js": "/StarWarsAPI/static/js/2.fe837efd.chunk.js",
+    "static/js/2.fe837efd.chunk.js.map": "/StarWarsAPI/static/js/2.fe837efd.chunk.js.map",
+    "index.html": "/StarWarsAPI/index.html",
+    "static/css/2.bad60735.chunk.css.map": "/StarWarsAPI/static/css/2.bad60735.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/StarWarsAPI/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fe837efd.chunk.js.LICENSE.txt": "/StarWarsAPI/static/js/2.fe837efd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/StarWarsAPI/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c96567d.js",
+    "static/css/2.bad60735.chunk.css",
+    "static/js/2.fe837efd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8ce5b21f.chunk.js"
+  ]
+}
